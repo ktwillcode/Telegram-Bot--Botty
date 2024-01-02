@@ -14,9 +14,9 @@ async def send_telegram_message(api_token, chat_id, message):
         print(f"Failed to send message: {e}")
 
 async def main():
-    API_TOKEN='6648433728:AAFK2o7hpPwNqKUjXh_ecwogWMbo_c7ADqU'
-    FRIEND_CHAT_ID='1290384349'
-    MESSAGE_TEXT='hello vedang'
+    API_TOKEN='YOUR API TOKEN'
+    FRIEND_CHAT_ID='FRIEND_CHAT_ID'
+    MESSAGE_TEXT='Your Message here'
 
 
     await send_telegram_message(API_TOKEN, FRIEND_CHAT_ID, MESSAGE_TEXT)
