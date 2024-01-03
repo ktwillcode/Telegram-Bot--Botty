@@ -1,2 +1,2 @@
-Hello
-working on releasing code with full documentation
+Hello,
+Uploaded the code, and working on documentation.
