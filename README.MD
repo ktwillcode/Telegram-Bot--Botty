@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This repository contains the code for a Telegram bot developed using the `python-telegram-bot` library. The bot serves [describe its purpose or functionality briefly].
+This repository contains the code for a Telegram bot developed using the `python-telegram-bot` library. The bot serves messaging at scheduled times, even if you are offline.
 
 ---
 
@@ -20,8 +20,8 @@ Ensure the following are installed or available before setting up the bot:
 
 1. **Clone Repository:**
     ```bash
-    git clone https://github.com/your_username/telegram-bot.git
-    cd telegram-bot
+    git clonehttps://github.com/ktwillcode/Telegram-Bot--Botty.git
+    cd Telegram-Bot--Botty
     ```
 
 2. **Install Dependencies:**
