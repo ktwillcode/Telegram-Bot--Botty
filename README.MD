@@ -83,11 +83,3 @@ Ensure the following are installed or available before setting up the bot:
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
----
-
-## **License**
-
-This project is licensed under [License Name]. See the [LICENSE](./LICENSE) file for details.
-
-
-
