@@ -10,7 +10,7 @@ This repository contains the code for a Telegram bot developed using the `python
 
 Ensure the following are installed or available before setting up the bot:
 
-- **Python 3.x installed**
+- **Python 3.8 or 10 installed**
 - **Telegram account**
 - **PythonAnywhere account**
 
@@ -38,7 +38,7 @@ Ensure the following are installed or available before setting up the bot:
     - Follow the steps to create a new bot and obtain the API token.
 
 2. **Configure the Bot:**
-    - Open the `config.py` file.
+    - Open the `botty.py` file.
     - Replace `'YOUR_API_TOKEN'` with the obtained API token.
 
 ---
@@ -59,7 +59,7 @@ Ensure the following are installed or available before setting up the bot:
 ## **Deploying the Bot on PythonAnywhere**
 
 1. **Upload the Bot Script:**
-    - Upload the bot script (`your_bot_script.py`) to PythonAnywhere.
+    - Upload the bot script (`botty.py`) to PythonAnywhere.
 
 2. **Install Dependencies on PythonAnywhere:**
     - Open a Bash console on PythonAnywhere.
